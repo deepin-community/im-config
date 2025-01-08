@@ -1,3 +1,9 @@
+im-config (0.57-2deepin2) unstable; urgency=medium
+
+  * Move to main.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Wed, 08 Jan 2025 14:22:05 +0800
+
 im-config (0.57-2deepin1) unstable; urgency=medium
 
   * Add desktop file NoDisplay=true.patch
