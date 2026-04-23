@@ -1,3 +1,9 @@
+im-config (0.57-2deepin4) unstable; urgency=medium
+
+  * Fix parallel build race condition between msgfmt and msgmerge.
+
+ -- Wang Yu <wangyu@uniontech.com>  Wed, 23 Apr 2026 20:30:00 +0800
+
 im-config (0.57-2deepin3) unstable; urgency=medium
 
   * Do not start fcitx5 daemon by im-config, let autostart handle it.
